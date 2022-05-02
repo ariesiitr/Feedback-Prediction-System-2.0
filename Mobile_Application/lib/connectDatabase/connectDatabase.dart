@@ -136,7 +136,7 @@ class Feedback {
   int projectId;
   String visitorName;
   String speech;
-  String date;
+  String? date;
 
   Feedback(this.id, this.projectId, this.visitorName, this.speech, this.date);
 

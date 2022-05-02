@@ -1,6 +1,9 @@
+
 import 'package:flutter_sound/flutter_sound.dart';
 import 'package:FPS2/speechtoText/speechtoText.dart';
 import 'package:FPS2/fileSystem/fileSystem.dart';
+
+import '../connectDatabase/connectDatabase.dart';
 
 class SoundRecorder {
   FlutterSoundRecorder? _audioRecorder;
@@ -33,18 +36,19 @@ class SoundRecorder {
     );
   }
 
-  Future _stop(String projectName) async {
+  Future _stop(Project project, String visitorName) async {
     if (!_isRecorderInitiated) return;
 
     await _audioRecorder!.stopRecorder();
-    speechToText(projectName);
+    speechToText(project, visitorName);
   }
 
-  Future toggleRecording(String projectName) async {
+  Future toggleRecording(Project project, String visitorName) async {
     if (_audioRecorder!.isStopped) {
-      await _record(projectName);
+      await _record(project.title);
     } else {
-      await _stop(projectName);
+      await _stop(project, visitorName);
     }
   }
 }
+

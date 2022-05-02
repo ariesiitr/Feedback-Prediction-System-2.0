@@ -29,7 +29,7 @@ Feedback _$FeedbackFromJson(Map<String, dynamic> json) => Feedback(
       json['projectId'] as int,
       json['visitorName'] as String,
       json['speech'] as String,
-      json['date'] as String,
+      json['date'] as String?,
     );
 
 Map<String, dynamic> _$FeedbackToJson(Feedback instance) => <String, dynamic>{
