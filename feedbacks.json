@@ -1,0 +1,206 @@
+{ "feedbacks" : [
+        {
+            "id": 1,
+            "visitorName": "SHRASHTIKA",
+            "speech": "Good but need updates and improvements ",
+            "date": "2022-03-30",
+            "projectId": 1
+        },
+        {
+            "id": 2,
+            "visitorName": "TANISHA",
+            "speech": "A lot of glitches dont buy this thing better go for some other options",
+            "date": "2022-03-30",
+            "projectId": 2
+        },
+        {
+            "id": 3,
+            "visitorName": "ZOAYA",
+            "speech": "It ok good product",
+            "date": "2022-03-30",
+            "projectId": 2
+        },
+        {
+            "id": 4,
+            "visitorName": "SUHANI",
+            "speech": "Verigood Verigood.best",
+            "date": "2022-03-30",
+            "projectId": 5
+        },
+        {
+            "id": 5,
+            "visitorName": "SEJAL",
+            "speech": "Really killer",
+            "date": "2022-03-30",
+            "projectId": 3
+        },
+        {
+            "id": 6,
+            "visitorName": "ADITI",
+            "speech": "I personally don't recommend to buy this product if anyone want to connect TV over CAST screen option. Option is available but not compatible with any other",
+            "date": "2022-03-30",
+            "projectId": 1
+        },
+        {
+            "id": 7,
+            "visitorName": "SHRASHTIKA",
+            "speech": "Product is good.",
+            "date": "2022-03-30",
+            "projectId": 1
+        },
+        {
+            "id": 8,
+            "visitorName": "TANISHA",
+            "speech": "Amazing product in reasonable price range.",
+            "date": "2022-03-30",
+            "projectId": 4
+        },
+        {
+            "id": 9,
+            "visitorName": "ZOAYA",
+            "speech": "Not a good product...",
+            "date": "2022-03-30",
+            "projectId": 2
+        },
+        {
+            "id": 10,
+            "visitorName": "ADITI",
+            "speech": "It is good ðŸ˜ŽðŸ˜Ž smooth !!",
+            "date": "2022-03-30",
+            "projectId": 5
+        },
+        {
+            "id": 11,
+            "visitorName": "SUHANI",
+            "speech": "As per the description it is updated with new software, unfortunately its the same older one no update already made.",
+            "date": "2022-03-30",
+            "projectId": 3
+        },
+        {
+            "id": 12,
+            "visitorName": "TANISHA",
+            "speech": "Product is worst , even Amazon and lenovo is not supporting properly if there is an issue",
+            "date": "2022-03-30",
+            "projectId": 1
+        },
+        {
+            "id": 13,
+            "visitorName": "PRIYA",
+            "speech": "Good",
+            "date": "2022-03-30",
+            "projectId": 2
+        },
+        {
+            "id": 14,
+            "visitorName": "RANI",
+            "speech": "Satisfied with the product",
+            "date": "2022-03-30",
+            "projectId": 5
+        },
+        {
+            "id": 15,
+            "visitorName": "DHRITI",
+            "speech": "NOT SATISFIED",
+            "date": "2022-03-30",
+            "projectId": 3
+        },
+        {
+            "id": 16,
+            "visitorName": "SEJAL",
+            "speech": "Not bad",
+            "date": "2022-03-30",
+            "projectId": 3
+        },
+        {
+            "id": 17,
+            "visitorName": "SALONI",
+            "speech": "Looking stylist but sometimes network problem found.",
+            "date": "2022-03-30",
+            "projectId": 1
+        },
+        {
+            "id": 18,
+            "visitorName": "ZOAYA",
+            "speech": "Not very great phone. It says it has turbo charge but it takes four hour to reach 100%. Not worth buying",
+            "date": "2022-03-30",
+            "projectId": 5
+        },
+        {
+            "id": 19,
+            "visitorName": "ADITI",
+            "speech": "Lots of issues, os is truble. Do not buy this item, returning policy is not working, do,t buy on Amazon",
+            "date": "2022-03-30",
+            "projectId": 3
+        },
+        {
+            "id": 20,
+            "visitorName": "VIVEK",
+            "speech": "I request you all please don't buy this product.Phone is heated up always.Turbo charger performance is poor.Phone performance also bad.",
+            "date": "2022-03-30",
+            "projectId": 2
+        },
+        {
+            "id": 21,
+            "visitorName": "VAIBHAV",
+            "speech": "Gud buy for people looking for budget oriented smartphone.Happy tht lenovo has improved its camera.",
+            "date": "2022-03-30",
+            "projectId": 4
+        },
+        {
+            "id": 22,
+            "visitorName": "VIKRANT",
+            "speech": "Very good product...Fast delivery by Amazon..",
+            "date": "2022-03-30",
+            "projectId": 1
+        },
+        {
+            "id": 23,
+            "visitorName": "GURSIMRAN",
+            "speech": "good but quality little poor",
+            "date": "2022-03-30",
+            "projectId": 2
+        },
+        {
+            "id": 24,
+            "visitorName": "NIKITA",
+            "speech": "not bad",
+            "date": "2022-03-31",
+            "projectId": 3
+        },
+        {
+            "id": 25,
+            "visitorName": "SEJAL",
+            "speech": "sshndhihifhdeigri iunirhydij",
+            "date": "2022-03-31",
+            "projectId": 4
+        },
+        {
+            "id": 26,
+            "visitorName": "SUHANI",
+            "speech": "very poor",
+            "date": "2022-03-31",
+            "projectId": 5
+        },
+        {
+            "id": 27,
+            "visitorName": "PARI",
+            "speech": "My brother liked it very much. He is happy with the mobile and its features. Thanks lenovo and thanks amazon.",
+            "date": "2022-03-31",
+            "projectId": 1
+        },
+        {
+            "id": 28,
+            "visitorName": "rani",
+            "speech": "Its the best phone i ve ever used since i am born",
+            "date": "2022-03-31",
+            "projectId": 4
+        },
+        {
+            "id": 29,
+            "visitorName": "RANI",
+            "speech": "good",
+            "date": "2022-03-31",
+            "projectId": 2
+        }
+    ]
+}
