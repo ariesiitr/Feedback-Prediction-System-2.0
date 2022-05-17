@@ -117,7 +117,7 @@
          macro avg     0.92      0.93      0.92      2935
       weighted avg     0.92      0.92      0.92      2935  
 
-### The maximum accuracy of 92% with logistic regression and SVM.
+  The maximum accuracy of 92% with logistic regression and SVM.
 ---
 
 
