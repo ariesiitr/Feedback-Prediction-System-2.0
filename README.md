@@ -5,9 +5,18 @@
    - develop a RestApi to perform api tasks
    - do text cleaning and segmentation
    - do sentiment analysis and provides feedback based on users' verbal reviews.
+   - develop a web application to check sentiment
 
+### Mentor
+   [Pranjal Mangal](https://github.com/mangalpranjal)   
    We would like to express our special appreciation and thanks to our mentor Pranjal Mangal, you have been helping us
    throughout progress of this project. 
+   
+### Members
+   1. [Pawan Kumar](https://github.com/singhpawank)
+   3. Shrashtika Singh
+   4. Tanisha Gupta
+   5. Yash Ranakoti
 
 ---
 
