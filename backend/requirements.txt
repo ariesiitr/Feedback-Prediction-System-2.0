@@ -1,0 +1,5 @@
+config==0.5.1
+Django==3.2.13
+djangorestframework==3.13.1
+mysqlclient==2.1.0
+python-decouple==3.6
